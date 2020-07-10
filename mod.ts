@@ -125,7 +125,7 @@ export class Keys {
     }
 }
 
-
+// ONLY LINUX
 test();
 
 async function test() {
